@@ -1,0 +1,31 @@
+body{
+    font-family: arial serif;
+}
+
+.navbar{
+    background-color: #117A65;
+}
+
+.quem-somos{
+    background-color: yellow;
+    color: orangered;
+}
+
+.margin{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.parceiro{
+    background-color: orchid;
+}
+
+.servicos{
+    padding-bottom: 30px;
+
+}
+
+.bg-footer{
+    color: darkblue;
+    background-color: black;
+}
